@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TripBuddy - Terms of Service</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffbea;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #ff9f1c;
+      color: #fff;
+      padding: 15px 30px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #ff6f00;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>TripBuddy – Terms of Service</header>
+  <main>
+    <h1>Terms of Service</h1>
+    <p><strong>Effective Date:</strong> September 2
