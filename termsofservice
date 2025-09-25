@@ -1,38 +1,104 @@
-Welcome to TripBuddy. By accessing or using our app/website, you agree to these Terms of Service. Please read them carefully.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TripBuddy - Terms of Service</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffbea;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #ff9f1c;
+      color: #fff;
+      padding: 15px 30px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    nav {
+      background: #000;
+      padding: 10px 20px;
+      display: flex;
+      gap: 20px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #ff9f1c;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #ff6f00;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    footer {
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>TripBuddy – Terms of Service</header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="dashboard.html">Dashboard</a>
+    <a href="planner.html">Planner</a>
+    <a href="bookings.html">Bookings</a>
+    <a href="wallet.html">Wallet</a>
+    <a href="sos.html">SOS</a>
+    <a href="terms.html">Terms</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="help.html">Help</a>
+  </nav>
+  <main>
+    <h1>Terms of Service</h1>
+    <p><strong>Effective Date:</strong> September 2025</p>
 
-1. Use of Service
+    <h2>1. Use of Service</h2>
+    <p>TripBuddy is a platform to plan, book, and manage travel safely. Misuse such as fake bookings, fraud, or harmful activity is prohibited.</p>
 
-TripBuddy helps you plan, book, and manage your travel with safety features.
-You agree to use our services only for lawful purposes.
-Do not misuse the platform (e.g., fraud, fake bookings, harmful content).
+    <h2>2. Accounts</h2>
+    <ul>
+      <li>You are responsible for your login credentials.</li>
+      <li>Notify us immediately of unauthorized account use.</li>
+    </ul>
 
-2. Accounts
+    <h2>3. Bookings & Payments</h2>
+    <p>All bookings are subject to provider availability. Refunds follow the provider’s policy.</p>
 
-You are responsible for maintaining the confidentiality of your login details.
-Notify us immediately if you suspect unauthorized use of your account.
+    <h2>4. Digital Wallet</h2>
+    <p>You may store IDs and tickets securely, but documents remain your responsibility.</p>
 
-3. Bookings & Payments
+    <h2>5. Safety & SOS</h2>
+    <p>SOS connects you to emergency contacts or help, but TripBuddy is not a substitute for authorities.</p>
 
-All bookings (flights, hotels, trains, buses, darshan, etc.) are subject to availability.
-Cancellations/refunds follow the respective provider’s policy.
-TripBuddy is not liable for third-party delays, cancellations, or changes.
+    <h2>6. Limitation of Liability</h2>
+    <p>We are not liable for third-party issues or force majeure events.</p>
 
-4. Digital Wallet
-
-Store tickets, IDs, and travel docs securely.
-You are responsible for the accuracy of uploaded documents.
-TripBuddy applies encryption but is not liable for misuse caused by sharing credentials.
-
-5. Safety & SOS
-
-SOS features connect you with emergency contacts or nearby help.
-TripBuddy facilitates connections but does not replace local authorities.
-
-6. Limitation of Liability
-
-TripBuddy is a travel companion tool, not a travel agent.
-We are not responsible for losses due to service interruptions, third-party providers, or force majeure (e.g., natural disasters, strikes).
-
-7. Updates to Terms
-
-We may update these Terms periodically. Continued use means you accept the changes.
+    <h2>7. Changes to Terms</h2>
+    <p>Updates may occur, and continued use means acceptance of the new terms.</p>
+  </main>
+  <footer>
+    Contact: alienwebapp@gmail.com | +91 63623 77286 | Harihar, Davanagere – 577601
+  </footer>
+</body>
+</html>
